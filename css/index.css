@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  font-family: "Poppins";
+  color: #1b1b1b;
+}
+
+button {
+  background-color: #fe5e35;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 25px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #fe5d35dd;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+img[alt="logo"] {
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  margin-left: 60px;
+  position: relative;
+  top: 12px;
+}
+
+.nav-item {
+  margin-left: 60px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.active-item {
+  color: #fe5e35;
+  font-weight: 700;
+}
+
+img[alt="actions"]:hover {
+  cursor: pointer;
+}
+
+.intro-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.left-section {
+  flex: 1;
+  padding-left: 50px;
+}
+
+.left-section h3 {
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+img[alt="circles"] {
+  height: 35px;
+  margin-left: 8px;
+}
+
+.left-section h1 {
+  font-family: "Fredoka One";
+  font-size: 50px;
+  font-weight: 800;
+  margin-top: 8px;
+  letter-spacing: 1px;
+}
+
+.sub-headlines {
+  margin-top: 30px;
+  padding-left: 40px;
+}
+
+.sub-headline {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+img[alt="plus"] {
+  height: 18px;
+  background-color: #fe5e35;
+  clip-path: circle(50% at 50% 50%);
+  padding: 6px;
+  margin-right: 10px;
+  position: relative;
+  top: 7px;
+}
+
+.text {
+  margin-top: 40px;
+  font-size: 15px;
+  color: #758283;
+}
+
+.action-btn {
+  margin-top: 40px;
+  margin-right: 20px;
+}
+
+.right-section {
+  flex: 1;
+  position: relative;
+  text-align: center;
+}
+
+img[alt="headphone"] {
+  height: 400px;
+  margin-top: 30px;
+}
+
+.discount {
+  position: absolute;
+  left: 90px;
+  top: 260px;
+  height: 130px;
+}
+
+.discount-content {
+  position: absolute;
+  left: 120px;
+  top: 290px;
+  text-align: center;
+}
+
+.discount-content * {
+  color: #ffffff;
+}
+
+.discount-content h4 {
+  margin-top: 8px;
+  margin-bottom: -8px;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+.yellow-dot {
+  background-color: #f9cd00;
+}
+
+.tomato-dot {
+  background-color: #fe5e35;
+}
+
+.black-dot {
+  background-color: #1b1b1b;
+}
+
+.right-section .action-btn {
+  margin-top: 20px;
+  margin-left: 25px;
+}
