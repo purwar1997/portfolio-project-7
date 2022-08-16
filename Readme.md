@@ -24,4 +24,4 @@ A simple product display home page for a headphone company created using
 - How to use CSS `Position` property to position images and svgs
 - How to change background color of buttons upon being hovered
 
-### [**Live link**](https://portfolio-project-7.vercel.app/) of the project.
+### [**Live link**](https://portfolio-project-7.vercel.app/) of the project
