@@ -22,6 +22,7 @@ button:hover {
   opacity: 0.85;
 }
 
+/* Navbar */
 nav {
   display: flex;
   justify-content: space-between;
@@ -57,10 +58,12 @@ img[alt="actions"] {
   cursor: pointer;
 }
 
+/* Intro section */
 .intro-section {
   display: flex;
 }
 
+/* Left section */
 .left-section {
   padding-left: 50px;
   flex: 1;
@@ -120,6 +123,7 @@ img[alt="plus"] {
   gap: 20px;
 }
 
+/* Right section */
 .right-section {
   flex: 1;
   position: relative;
@@ -134,25 +138,25 @@ img[alt="headphone"] {
 .discount {
   width: 120px;
   position: absolute;
-  left: 120px;
-  top: 250px;
+  left: 125px;
+  top: 245px;
 }
 
 .discount-content {
   position: absolute;
-  left: 145px;
+  left: 153px;
   top: 280px;
   text-align: center;
 }
 
 .discount-content * {
+  font-family: "Fredoka One";
   color: #ffffff;
+  letter-spacing: 1px;
 }
 
 .discount-content h4 {
   font-size: 12px;
-  font-weight: 600;
-  margin-bottom: -8px;
 }
 
 .dots {

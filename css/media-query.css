@@ -1,3 +1,10 @@
+@media (max-width: 1300px) {
+  .discount,
+  .discount-content {
+    display: none;
+  }
+}
+
 @media (max-width: 1100px) {
   .intro-section {
     flex-direction: column-reverse;
