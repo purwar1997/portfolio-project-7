@@ -5,13 +5,11 @@
 ![CSS Flexbox](https://img.shields.io/badge/CSS%20Flexbox-blue)
 ![CSS Positions](https://img.shields.io/badge/CSS%20Positions-yellow)
 ![SVG](https://img.shields.io/badge/-SVG-orange)
-![Netlify](https://img.shields.io/badge/-Netlify-green)
-![Vercel](https://img.shields.io/badge/-Vercel-blueviolet)
+![Responsive](https://img.shields.io/badge/-Responsive-blueviolet)
 
 ## Description
 
-A simple product display home page for a headphone company created using
-`HTML` and `CSS`. This project is hosted on both `Netlify` and `Vercel`.
+This project is a product display page for a headphone company. It is created using HTML and CSS and is responsive for both mobile and tablet screens.
 
 **Created By :** Shubham Purwar
 
@@ -23,5 +21,9 @@ A simple product display home page for a headphone company created using
 - How to use `SVG` images in our HTML file
 - How to use CSS `Position` property to position images and svgs
 - How to change background color of buttons upon being hovered
+
+### Preview of the project :-
+
+![preview](./preview.png)
 
 ### [**Live link**](https://portfolio-project-7.vercel.app/) of the project
