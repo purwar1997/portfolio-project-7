@@ -26,4 +26,4 @@ This project is a product display page for a headphone company. It is created us
 
 ![preview](./preview.png)
 
-### [**Live link**](https://portfolio-project-7.vercel.app/) of the project
+### [**Live link**](https://portfolio-project-7.vercel.app/) of the project.
