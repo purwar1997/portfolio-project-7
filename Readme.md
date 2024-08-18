@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is a product display page for a headphone company. It is created using HTML and CSS and is responsive for both mobile and tablet screens.
+This project is a product display page for a headphone company. It is created using HTML and CSS and is responsive for screens of various sizes.
 
 ### Learnings from this project :-
 
